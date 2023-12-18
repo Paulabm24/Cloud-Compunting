@@ -1,2 +1,3 @@
 - https://www.kyoceradocumentsolutions.es/es/smarter-workspaces/business-challenges/the-cloud/las-5-caracteristicas-del-cloud-computing-mas-relevantes-para-los-negocios.html
 - https://cloud.google.com/learn/what-is-cloud-computing?hl=es#section-5
+- https://www.beetrack.com/es/blog/ventajas-y-desventajas-de-cloud-computing
