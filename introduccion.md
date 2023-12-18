@@ -1,0 +1,5 @@
+Conocer los tipos de recursos de cloud computing puede requerir mucho tiempo y dinero. Las empresas necesitan comprar servidores físicos y otra infraestructura por medio de procesos de aprovisionamiento que pueden durar meses, además de mantener la arquitectura de cloud computing. Los sistemas adquiridos requieren espacio físico, por lo general, una sala especializada que ofrezca suficiente potencia y refrigeración. Después de configurar y desplegar los sistemas, las empresas necesitan expertos que los gestionen.
+
+Escalar este proceso de larga duración cuando hay picos de demanda o mientras que el negocio crece es complicado. Las empresas pueden adquirir más recursos de computación de los que necesitan y acabar con un bajo nivel de utilización.
+
+El cloud computing soluciona estos problemas ofreciendo recursos de computación como servicios escalables y bajo demanda. Obtén más información sobre Google Cloud, Google Cloud, un paquete de modelos de servicio de cloud computing de Google.
