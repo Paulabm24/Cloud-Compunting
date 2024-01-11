@@ -13,3 +13,6 @@
 
 [6. Ventajas e inconvenientes de Cloud Computing.](comparativa.md)
 - [Referencias](referencias.md)
+
+## Licencia
+![images](licencia.png)
